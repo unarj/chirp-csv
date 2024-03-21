@@ -1,0 +1,12 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,Call 80m,3.885000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,200W,,,,,
+1,Call 40m,7.290000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,200W,,,,,
+2,Call 20m,14.286000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,AM,5.00,,200W,,,,,
+3,Call 10m,29.600000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,5.00,,200W,,,,,
+4,Call 6m,52.525000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,100W,,,,,
+5,Call 2m,146.520000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
+6,Call 1.25m,223.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
+7,Call 70cm,446.000000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
+8,Call 33cm,927.500000,,25.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
+9,Call 23cm,1296.100000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+10,Call 13cm,2304.100000,,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
